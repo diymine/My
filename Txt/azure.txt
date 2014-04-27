@@ -1,0 +1,5 @@
+blob op :http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs-20/#create-account
+
+table op :http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-table-storage-20/?fb=zh-cn
+
+queue op :http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-queues-20/?fb=zh-cn
