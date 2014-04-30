@@ -121,13 +121,13 @@ namespace Test.MVCSite.Controllers
             return table.ExecuteBatch(batchOperation);
         }
 
-        //public IEnumerable<T> QueryEntity<T>(string tableName = null) where T : TableEntity
-        //{
-        //    CloudTable table = GetCloudTable(tableName);
-        //    // Construct the query operation for all customer entities where PartitionKey="Smith".
-        //    TableQuery<T> query = new TableQuery<T>().Where(TableQuery.GenerateFilterCondition("PartitionKey", QueryComparisons.Equal, "Smith"));
-        //    return table.ExecuteQuery<T>(query);
-        //}
+        public IEnumerable<T> QueryEntity<T>(string tableName = null) where T : TableEntity, new()
+        {
+            CloudTable table = GetCloudTable(tableName);
+            // Construct the query operation for all customer entities where PartitionKey="Smith".
+            TableQuery<T> query = new TableQuery<T>().Where(TableQuery.GenerateFilterCondition("PartitionKey", QueryComparisons.Equal, "Smith"));
+            return table.ExecuteQuery(query);
+        }
 
         //public TableResult SaveEntity<T>(string tableName, IEnumerable<T> entities) where T : TableEntity
         //{

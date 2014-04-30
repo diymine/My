@@ -58,5 +58,11 @@ namespace Test.MVCSite.Controllers
             TableResult result = operate.SaveOrUpdateEntity<CustomerEntity>( customer1,"CustomerEntity");
             return result.Result.ToString();
         }
+
+        public ActionResult ListEntity()
+        {
+            var operate = new CloudOperate();
+            operate.QueryEntity<CustomerEntity>()
+        }
     }
 }
