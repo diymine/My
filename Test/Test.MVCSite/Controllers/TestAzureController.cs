@@ -59,10 +59,10 @@ namespace Test.MVCSite.Controllers
             return result.Result.ToString();
         }
 
-        public ActionResult ListEntity()
-        {
-            var operate = new CloudOperate();
-            operate.QueryEntity<CustomerEntity>()
-        }
+        //public ActionResult ListEntity()
+        //{
+        //    var operate = new CloudOperate();
+        //    operate.QueryEntity<CustomerEntity>();
+        //}
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using NLog;
 
 namespace Test.MVCSite.Controllers
 {
@@ -10,6 +11,8 @@ namespace Test.MVCSite.Controllers
     {
         public ActionResult Index()
         {
+            NLog.Logger logger = LogManager.GetCurrentClassLogger();
+            logger.Error("ERR");
             return View();
         }
 
