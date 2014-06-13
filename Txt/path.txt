@@ -1,2 +1,10 @@
-http://www.cnblogs.com/yukaizhao/archive/2011/07/28/stream.html
+﻿http://www.cnblogs.com/yukaizhao/archive/2011/07/28/stream.html
 http://www.cnblogs.com/huangxincheng/archive/2012/04/03/2430638.html
+
+Selenium + specflow
+
+在技术站点提问求助的基本做法和注意点
+http://catb.org/~esr/faqs/smart-questions.html
+
+提问题的基本方式
+http://www.wikihow.com/Ask-a-Question-Intelligently
