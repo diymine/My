@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -9,10 +10,21 @@ namespace Test.MVCSite.Controllers
 {
     public class HomeController : Controller
     {
+        static NLog.Logger logger = LogManager.GetCurrentClassLogger();
         public ActionResult Index()
         {
-            NLog.Logger logger = LogManager.GetCurrentClassLogger();
-            logger.Error("ERR");
+           
+            logger.Error("test ouput");
+            logger.Info("test ouput");
+            
+            try
+            {
+                System.IO.File.Open("tata",FileMode.Open);
+            }
+            catch (Exception e)
+            {
+                logger.ErrorException("err msg", e);
+            }
             return View();
         }
 
