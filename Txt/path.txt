@@ -8,3 +8,5 @@ http://catb.org/~esr/faqs/smart-questions.html
 
 提问题的基本方式
 http://www.wikihow.com/Ask-a-Question-Intelligently
+
+http://www.syncfusion.com/resources/techportal/ebooks
