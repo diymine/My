@@ -1,0 +1,10 @@
+*.suo
+bin
+obj
+*.user
+ServiceDefinition.build.csdef
+*/Backup/**
+**/csx/**
+*/packages/**
+*.log
+**/Temp/**
