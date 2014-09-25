@@ -1,0 +1,117 @@
+/E/git_karamedy_working/karamedy_azure/karamedy
+Welcome to Git (version 1.9.0-preview20140217)
+
+
+Run 'git help git' to display the help index.
+Run 'git help <command>' to display help for specific commands.
+
+x_caohj@S2D-X-CAOHJ-PC ~
+$ cd /E/git_karamedy_working/
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working
+$ ls
+karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working
+$ cd karamedy_azure/
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ ls
+Jp.Karamedy.Batch  Jp.Karamedy.Launcher  karamedy
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ cd ..
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working
+$ ls
+karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working
+$ cd karamedy_azure/
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ git diff --name-status master working
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ pwd
+/E/git_karamedy_working/karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ ls
+Jp.Karamedy.Batch  Jp.Karamedy.Launcher  karamedy
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ cd karamedy/
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure/karamedy (working)
+
+$ ls
+CertFile                                 Jp.Karamedy.Smartphone.Test
+Jp.Karamedy.Answer                       Jp.Karamedy.Tool
+Jp.Karamedy.Answer.Azure                 Jp.Karamedy.Tool.Azure
+Jp.Karamedy.Answer.Integration.Test      Jp.Karamedy.Tool.Integration.Test
+Jp.Karamedy.Answer.Test                  Jp.Karamedy.Tool.Test
+Jp.Karamedy.Service                      UpgradeLog.htm
+Jp.Karamedy.Service.Test                 karamedy.sln
+Jp.Karamedy.Smartphone                   karamedy.sln.DotSettings.user
+Jp.Karamedy.Smartphone.Azure             karamedy.v12.suo
+Jp.Karamedy.Smartphone.Integration.Test  packages
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure/karamedy (working)
+
+$ git diff --name-status master working
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure/karamedy (working)
+
+$ cd ..
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ pwd
+/E/git_karamedy_working/karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ git diff master working
+
+x_caohj@S2D-X-CAOHJ-PC /E/git_karamedy_working/karamedy_azure (working)
+$ git diff mast
+
+Welcome to Git (version 1.9.0-preview20140217)
+
+
+Run 'git help git' to display the help index.
+Run 'git help <command>' to display help for specific commands.
+
+x_caohj@S2D-X-CAOHJ-PC ~
+$ cd E:\git_karamedy_master
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master
+$ ls
+karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master
+$ cd karamedy_azure/
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master/karamedy_azure (working)
+$ pwd
+/e/git_karamedy_master/karamedy_azure
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master/karamedy_azure (working)
+$ ls
+Jp.Karamedy.Batch  Jp.Karamedy.Launcher  karamedy
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master/karamedy_azure (working)
+$ git reset --hard Rel201409_AdditionalAndThanks
+HEAD is now at cf035a0 ブックマークするとき、スクロールしないように改修した
+
+Warning: Your console font probably doesn't support Unicode. If you experience s
+trange characters in the output, consider switching to a TrueType font such as L
+ucida Console!
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master/karamedy_azure (working)
+$ git push --force origin working
+Total 0 (delta 0), reused 0 (delta 0)
+To git@hc-git2.cloudapp.net:karadamedikadashboard/karamedy_azure.git
+ + 2621746...cf035a0 working -> working (forced update)
+
+x_caohj@S2D-X-CAOHJ-PC /e/git_karamedy_master/karamedy_azure (working)
+$
