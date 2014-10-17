@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "ZipImg";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ZipImg</h2>
+<form>
+    <input type="file" id="img1" name="img1" />
+
+    <input id ="btnZipTest" type="button" value="ziptest" />
+    <canvas id="myCanvas" style="width: 100px; height: 100px;"></canvas>
+</form>
+<script type="text/javascript">
+    $(function() {
+        $("#btnZipTest").click(function () {
+            var file = document.getElementById("img1").files[0];
+            var url = window.URL.createObjectURL(file);
+
+            /* 生成图片
+            * ---------------------- */
+            var $img = new Image();
+            $img.onload = function() {
+
+                //生成比例
+                var width = $img.width,
+                    height = $img.height,
+                    scale = width / height;
+                width = parseInt(800);
+                height = parseInt(width / scale);
+
+                //生成canvas
+                var $canvas = $('#myCanvas');
+                var ctx = $canvas[0].getContext('2d');
+                $canvas.attr({ width: width, height: height });
+                ctx.drawImage($img, 0, 0, width, height);
+                var base64 = $canvas[0].toDataURL('image/jpeg', 0.5);
+
+                //发送到服务端
+                $.post('/TestJs/Save', { formFile: base64.substr(23) }, function (data) {
+                    $('#php').html(data);
+                });
+            };
+            $img.src = url;
+            //var c = document.getElementById("myCanvas");
+            //var ctx = c.getContext("2d");
+            //var img = document.getElementById("img1").files[0];
+            //ctx.drawImage(img, 10, 10);
+        });
+    });
+</script>

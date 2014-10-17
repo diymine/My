@@ -187,6 +187,7 @@
     <Compile Include="Controllers\CloudOperate.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestAzureController.cs" />
+    <Compile Include="Controllers\TestJsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -218,6 +219,10 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="ZipImg\index.html" />
+    <Content Include="ZipImg\LocalResizeIMG.js" />
+    <Content Include="ZipImg\patch\angular-localResizeIMG.js" />
+    <Content Include="ZipImg\patch\mobileBUGFix.mini.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -246,6 +251,9 @@
     <Content Include="Views\TestAzure\Index.cshtml" />
     <Content Include="Views\TestAzure\ListData.cshtml" />
     <Content Include="Views\TestDomain\Index.cshtml" />
+    <Content Include="Views\TestJs\ZipImg.cshtml" />
+    <Content Include="ZipImg\patch\angular-localResizeIMG.coffee" />
+    <Content Include="ZipImg\patch\angular-localResizeIMG.map" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

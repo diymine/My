@@ -2,3 +2,4 @@
 =FIND("1",$R7)>0
 =IF(C4="","",COUNTIF(INDIRECT("'"&C4&"'!D:D"),"正常系"))
 =IF(C4="","",COUNTIF(INDIRECT("'"&C4&"'!D:D"),"異常系"))
+SET IDENTITY_INSERT d_questions ON;
