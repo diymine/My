@@ -1,0 +1,1197 @@
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.MatchEvaluator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CachedCodeEntry のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.ExclusiveReference のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.SharedReference のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexBoyerMoore のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.Capture のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CaptureCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CaptureEnumerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexCharClass のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexCode のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexCompiler のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexTypeCompiler のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexLWCGCompiler のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexFCD のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexFC のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexPrefix のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.Group のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.GroupCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.GroupEnumerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexInterpreter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.Match のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.MatchSparse のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.MatchCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.MatchEnumerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexNode のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexParser のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexReplacement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexTree のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.RegexWriter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CompiledRegexRunner のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.NoParamDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.FindFirstCharDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CompiledRegexRunnerFactory のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Text.RegularExpressions.CreateInstanceDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.CodeBinaryOperatorType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.CodeRegionMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.CodeTypeReferenceOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.FieldDirection のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.MemberAttributes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AddingNewEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AmbientValueAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ArraySubsetEnumerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AsyncCompletedEventArgs のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AsyncCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AsyncOperation のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.AsyncOperationManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.BaseNumberConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(BaseNumberConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.BindableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.BindableSupport のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.BindingDirection のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.BrowsableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ByteConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(ByteConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.CancelEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.CollectionChangeAction のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.CollectionChangeEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ComplexBindingPropertiesAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.CompModSwitches のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DataObjectAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DataObjectFieldAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DataObjectMethodAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DataObjectMethodType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DecimalConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(DecimalConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DefaultBindingPropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DefaultEventAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DefaultPropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DelegatingTypeDescriptionProvider のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignerAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignerCategoryAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignerSerializationVisibility のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignerSerializationVisibilityAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignOnlyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DesignTimeVisibleAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DoubleConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(DoubleConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.DoWorkEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.EditorAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.EditorBrowsableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.EditorBrowsableState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.EventHandlerList のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ExtendedPropertyDescriptor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ExtenderProvidedPropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.HandledEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.IComNativeDescriptorHandler のスタブを生成できません: 型は旧式です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ImmutableObjectAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.InitializationEventAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Int16Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(Int16Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Int32Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(Int32Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Int64Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(Int64Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.IntSecurity のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.LicenseManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.LicenseProviderAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.LicenseUsageMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ListBindableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ListChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ListChangedType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ListSortDirection のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.LocalizableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.LookupBindingPropertiesAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.MaskedTextResultHint のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.MergablePropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.PasswordPropertyTextAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ProgressChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.PropertyChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.PropertyChangingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ProvidePropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ReadOnlyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.RecommendedAsConfigurableAttribute のスタブを生成できません: 型は旧式です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ReflectEventDescriptor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ReflectPropertyDescriptor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ReflectTypeDescriptionProvider のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.RefreshEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.RunWorkerCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.SByteConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(SByteConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.SettingsBindableAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.SingleConverter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(SingleConverter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.SyntaxCheck のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ToolboxItemFilterAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ToolboxItemFilterType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.TypeConverterAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.TypeDescriptionProviderAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.TypeDescriptor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.UInt16Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(UInt16Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.UInt32Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(UInt32Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.UInt64Converter のスタブを生成できません: method System.Object System.ComponentModel.BaseNumberConverter.FromString(System.String value, System.Int32 radix) unstubbable: メソッドは抽象であり、スタブできませんでした。メソッドのシグネチャの型は、exported or assembly(System.4.0.0.0.Fakes) or subtype(UInt64Converter in assembly System.4.0.0.0.Fakes) からは参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ActiveDesignerEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentChangedEventArgs のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentChangingEventArgs のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentChangingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ComponentRenameEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.DesignerTransactionCloseEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.RuntimeLicenseContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.DesigntimeLicenseContextSerializer のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.DesignerEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.HelpContextType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.HelpKeywordAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.HelpKeywordType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.InheritanceAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.InheritanceLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.NotifyParentPropertyAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.ParenthesizePropertyNameAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.PropertyTabScope のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.RefreshProperties のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.RefreshPropertiesAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.SelectionTypes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ServiceCreatorCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.ViewTechnology のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.ContextStack のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.DefaultSerializationProviderAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.DesignerSerializerAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.InstanceDescriptor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.MemberRelationship のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.ResolveNameEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.Design.Serialization.RootDesignerSerializerAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.AssertSection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.AssertWrapper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.MessageBoxPopup のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CorrelationManager のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.Debug のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.InitState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.DiagnosticsConfiguration のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TypedElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.FilterElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ListenerElementsCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SharedListenerElementsCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ListenerElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerfCounterSection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SourceElementsCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SourceElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SourceLevels のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SwitchAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SwitchElementsCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SwitchElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SwitchLevelAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SystemDiagnosticsSection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.Trace のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceEventType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceListenerCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceSection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.TraceUtils のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.CodeDomCompilationConfiguration のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.CodeDomConfigurationHandler のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.HandlerBase のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.CodeValidator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.CompilerInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.Executor のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.GeneratedCodeAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.GeneratorSupport のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.Indentation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.LanguageOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.CodeDom.Compiler.RedistVersionInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.BlockType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.CompressionMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.CompressionTracingSwitchLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.CompressionTracingSwitch のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.CompressionLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.CopyEncoder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.Crc32Helper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.DeflateInput のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.IDeflater のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.DeflaterManaged のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.DeflaterZLib のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.ZLibNative のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.ZLibException のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.DeflateStreamAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.FastEncoder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.FastEncoderStatics のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.FastEncoderWindow のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.IFileFormatWriter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.IFileFormatReader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.GZipDecoder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.GZipConstants のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.GZipFormatter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.HuffmanTree のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.Inflater のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.InflaterState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.InputBuffer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.InvalidDataException のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.Match のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : MatchState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.OutputBuffer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Compression.OutputWindow のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.HandleCollector のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.DefaultParameterValueAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.Versioning.FrameworkName のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Threading.Semaphore のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Concurrent.SystemThreadingCollections_BlockingCollectionDebugView`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Concurrent.SystemThreadingCollection_IProducerConsumerCollectionDebugView`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Media.SystemSounds のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Media.SystemSound のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Windows.Markup.ValueSerializerAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Windows.Input.BuildInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.AccessControl.SemaphoreRights のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.AccessControl.SemaphoreAccessRule のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.AccessControl.SemaphoreAuditRule のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.AccessControl.SemaphoreSecurity のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Threading.ThreadExceptionEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_CollectionDebugView`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_QueueDebugView`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_StackDebugView`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_DictionaryDebugView`2 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_DictionaryKeyCollectionDebugView`2 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.System_DictionaryValueCollectionDebugView`2 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.LinkedListNode`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ThrowHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ExceptionArgument のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ExceptionResource のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.TreeSet`1 のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.TreeWalkPredicate`1 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.TreeRotation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.SortedSetEqualityComparer`1 のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.SortedSetDebugView`1 のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Generic.BitHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.BitVector32 のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.FixedStringLookup のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.CompatibleComparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.NotifyCollectionChangedAction のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.NotifyCollectionChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.INotifyCollectionChangedEventArgs のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.IPropertyChangedEventArgs のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.INotifyCollectionChanged_WinRT のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.INotifyPropertyChanged_WinRT のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.ICommand_WinRT のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyCollectionChangedEventHandler_WinRT のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.PropertyChangedEventHandler_WinRT のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyCollectionChangedEventArgsMarshaler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.PropertyChangedEventArgsMarshaler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyCollectionChangedToManagedAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyCollectionChangedToWinRTAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyPropertyChangedToManagedAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.NotifyPropertyChangedToWinRTAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.ICommandToManagedAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.WindowsRuntime.ICommandToWinRTAdapter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.StringEnumerator のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.StringDictionaryWithComparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.UnsafeNativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.ADVF のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.DATADIR のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.DVASPECT のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.FORMATETC のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.STATDATA のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.STGMEDIUM のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Runtime.InteropServices.ComTypes.TYMED のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.NativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.PowerModeChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.PowerModes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeNativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SessionEndedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SessionEndingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SessionEndReasons のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SessionSwitchEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SessionSwitchReason のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SystemEvents のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.TimerElapsedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.UserPreferenceCategory のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.UserPreferenceChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.UserPreferenceChangingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeEventLogReadHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeEventLogWriteHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeFileMappingHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeFileMapViewHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeLibraryHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeLocalMemHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeProcessHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeTimerHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeThreadHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.SafeHandles.SafeUserTokenHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.CSharp.CSharpCodeGenerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.CSharp.CSharpModifierAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.CSharp.CSharpTypeAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.CSharp.CSharpMemberAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.VisualBasic.VBCodeGenerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.VisualBasic.VBModifierAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.VisualBasic.VBMemberAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.VisualBasic.VBTypeAttributeConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.StorePermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.StorePermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.StorePermissionFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.TypeDescriptorPermissionFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.TypeDescriptorPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Permissions.TypeDescriptorPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.AsnEncodedDataCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.AsnEncodedDataEnumerator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.BigInt のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPIBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPINative のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPISafe のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPIUnsafe のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPIMethods のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.CAPI のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeLibraryHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeLocalAllocHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeCryptProvHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeCertContextHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeCertStoreHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeCryptMsgHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.SafeCertChainHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.OidGroup のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.Oid のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.OidCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.OidEnumerator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X500DistinguishedNameFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X500DistinguishedName のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509NameType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509IncludeOption のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.PublicKey のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509FindType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509Certificate2Enumerator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainStatusFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainElement のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainElementEnumerator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509RevocationMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509RevocationFlag のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509VerificationFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ChainPolicy のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509KeyUsageFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509KeyUsageExtension のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509EnhancedKeyUsageExtension のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierHashAlgorithm のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierExtension のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ExtensionCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509ExtensionEnumerator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.StoreLocation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.OpenFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.StoreName のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509Store のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Cryptography.X509Certificates.X509Utils のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.ChannelBindingKind のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.PolicyEnforcement のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.ProtectionScenario のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.Configuration.ExtendedProtectionConfigurationStrings のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.Configuration.ExtendedProtectionPolicyElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExtendedProtection.Configuration.ServiceNameElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Claims.DynamicRoleClaimProvider のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriHostNameType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriPartial のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.DomainNameHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IPv4AddressHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IPv6AddressHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UncNameHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriSyntaxFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriKind のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriComponents のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriFormat のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriIdnScope のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ParsingError のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UnescapeMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.UriHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.GenericUriParserOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AuthenticationManager のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.PrefixLookup のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.InternetSecurityManager のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.IInternetSecurityManager のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AuthenticationSchemes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AuthenticationSchemeSelector のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IWebProxyFinder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BaseWebProxyFinder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectionModes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.GeneralAsyncDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CreateConnectionDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectionPool のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.InterlockedStack のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectionPoolManager のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CookieVariant のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cookie のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CookieToken のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CookieTokenizer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CookieParser のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Comparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HeaderVariantInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.PathList のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SystemNetworkCredential のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CredentialHostKey のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CredentialKey のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Dns のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.LazyAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ContextAwareResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DnsPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DnsPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.EntitySendFormat のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BoundaryType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebRequest のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IAutoWebProxy のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FileWebRequestCreator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ICloseEx のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FileWebStream のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpStatusCode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebRequestMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpOperation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpMethodFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpMethodInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpWebRequest のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpWebRequestCreator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpWebResponse のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.GlobalProxySelection のスタブを生成できません: 型は旧式です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerBasicIdentity のスタブを生成できません: 型は内部の制限によりサポートされていません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.RequestContextBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AsyncRequestContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SyncRequestContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListener のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerContext のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ListenerPrefixEnumerator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerPrefixCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ListenerClientCertState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ListenerClientCertAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerRequest のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerRequestUriBuilder のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerResponse のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerTimeoutManager のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpRequestHeader のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpResponseHeader のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpStatusCode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpStatusDescription のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpSysSettings のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DecompressionMethods のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpWebRequest のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.RtcState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpWebResponse のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IRequestLifetimeTracker のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.GZipWrapperStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DeflateWrapperStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HybridWebProxyFinder のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IntPtrHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.InternalException のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NclUtilities のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NclConstants のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.InterlockedGate のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkAddressChangePolled のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ComNetOS のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ValidationHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ExceptionHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WindowsInstallationType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ContentTypeValues のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ContextAttribute のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Endianness のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CredentialUse のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BufferType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ChainPolicyType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IgnoreCertProblem のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertUsage のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ChainPolicyParameter のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSL_EXTRA_CERT_CHAIN_POLICY_PARA のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ChainPolicyStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertEnhKeyUse のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertUsageMatch のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ChainParameters のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net._CERT_CHAIN_ELEMENT のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IssuerListInfoEx のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecureCredential のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityBufferStruct のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityBuffer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityBufferDescriptor のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertificateEncoding のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertificateProblem のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecChannelBindings のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebRequestPrefixElement のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpRequestCreator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSocketHttpRequestCreator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CoreResponseData のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IReadChunkBytes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.StreamChunkBytes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpAbortDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpKnownHeaderNames のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpContinueDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpWriteMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UnlockConnectionDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpBehaviour のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpProcessingResult のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.KnownHttpVerb のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpProtocolUtils のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.PolicyWrapper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DefaultCertPolicy のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TriState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DefaultPorts のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.hostent のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Blob のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SplitWritesState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Logging のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetWebProxyFinder のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectStreamContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SslStreamContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpListenerRequestContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CachedTransportContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeNclNativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BindIPEndPoint のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ServicePoint のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityProtocolType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CertPolicyValidationCallback のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ServerCertValidationCallback のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ServicePointManager のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SocketPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SocketPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.EndpointPermission のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TransportType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UnsafeNclNativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebClient のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CompletionDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.OpenReadCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.OpenReadCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.OpenWriteCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.OpenWriteCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadStringCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadStringCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadDataCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadDataCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadStringCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadStringCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadDataCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadDataCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadFileCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadFileCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadValuesCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadValuesCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadProgressChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DownloadProgressChangedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadProgressChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.UploadProgressChangedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebExceptionInternalStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebExceptionStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebExceptionMapping のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebHeaderCollectionType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CaseInsensitiveAscii のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HostHeaderString のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DelayedRegex のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebProxyData のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebUtility のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WinHttpWebProxyFinder のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WriteStreamClosedEventArgs のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WriteStreamClosedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AuthenticationState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AutoWebProxyScriptEngine のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebProxyScriptHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AutoWebProxyScriptWrapper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BasicClient のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BufferOffsetSize のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ChunkParse のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.PooledStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CommandStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ResponseDescription のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ReceiveState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ReadState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DataParseStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WriteBufferState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebParseErrorSection のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebParseErrorCode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebParseError のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TunnelStateObject のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BufferChunkBytes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectionReturnResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Connection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectionGroup のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WriteHeadersCallbackState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ConnectStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SyncMemoryStream のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CallbackClosure のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CookieModule のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ISessionAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DigestClient のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpDigestChallenge のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpDigest のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.EmptyWebProxy のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpPrimitive のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpLoginState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpControlStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FtpDataStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HeaderParser のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HeaderInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HeaderInfoTable のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpDateParse のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.CloseExState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.KerberosClient のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ListenerAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpRequestStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpResponseStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpResponseStreamAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BaseLoggingObject のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ThreadKinds のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.GlobalLog のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.GlobalSSPI のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSPIInterface のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSPISecureChannelType のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSPIAuthType のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NegotiateClient のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NestedMultipleAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NestedSingleAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetRes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkingPerfCounterName のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkingPerfCounters のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ContextFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NTAuthentication のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AuthIdentity のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NtlmClient のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IPMulticastRequest のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Linger のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WSABuffer のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TransmitFileBuffers のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WSAData のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AddressInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AddressInfoHints のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NameInfoFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.IPv6MulticastRequest のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SocketConstructorFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ProxyChain のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ProxyScriptChain のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DirectProxy のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.StaticProxy のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebProxyDataBuilder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.RegBlobWebProxyDataBuilder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.RequestLifetimeSetter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WinHttpWebProxyBuilder のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeAddrInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeCloseHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpRequestQueueV2Handle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.HttpServerSessionHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeCloseIcmpHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeInternetHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeSspiAuthDataHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurDll のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeContextBuffer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeContextBuffer_SECURITY のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeLocalFree のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeGlobalFree のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeOverlappedFree のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeLoadLibrary のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeCertChain のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeCertChainList のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeCertContext のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSPIHandle のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeCredentials のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeCredentialReference のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeCredential_SECURITY のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeDeleteContext のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeDeleteContext_SECURITY のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeNativeOverlapped のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeCloseSocket のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeCloseSocketAndEvent のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeLocalFreeChannelBinding のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeContextBufferChannelBinding のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeFreeContextBufferChannelBinding_SECURITY のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeUnlockUrlCacheEntryFile のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeRegistryHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SafeWebSocketHandle のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ScatterGatherBuffers のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.SecureChannel のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.ProtocolToken のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ServiceNameStore のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Semaphore のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ShellExpression のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SpnDictionary のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SpnToken のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.SslSessionsCache のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.SSPIHandleCache のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SSPIWrapper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.StreamSizes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecSizes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SchProtocols のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Alg のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SslConnectionInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NegotiationInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NegotiationInfoClass のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityPackageInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.SecurityPackageInfoClass のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Bindings のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.StreamFramer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WorkerAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FrameHeader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TimerThread のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TlsStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Win32 のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.UnicodeDecodingConformance のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.UnicodeEncodingConformance のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheValidator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.HttpRequestCacheValidator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.HttpMethod のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.ResponseCacheControl のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.FtpRequestCacheValidator のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCache のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : Microsoft.Win32.WinInetCache のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheEntry のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheBinding のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.HttpRequestCacheLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.HttpCacheAgeControl のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.CacheFreshnessStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.CacheValidationStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache._WinInetCache のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.BaseWrapperStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.CombinedReadStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.ForwardingReadStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.MetadataUpdateStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RangeStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.RequestCacheProtocol のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.Rfc2616 のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Cache.SingleItemRequestCache のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.AuthenticationLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.ProtectionLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.SslProtocols のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.ExchangeAlgorithmType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.CipherAlgorithmType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Security.Authentication.HashAlgorithmType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.SslPolicyErrors のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.EncryptionPolicy のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.RemoteCertificateValidationCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.LocalCertificateSelectionCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.RemoteCertValidationCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.LocalCertSelectionCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.FixedSizeReader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BufferAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AsyncProtocolCallback のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.AsyncProtocolRequest のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.NegoState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security.SslState のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Security._SslStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AddressFamily のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.IoctlSocketConstants のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AsyncEventBits のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AsyncEventBitsPos のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.NetworkEvents のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.TimeValue のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.IOControlCode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.IPProtectionLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ProtocolFamily のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ProtocolType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SelectMode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketInformationOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketInformation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ConnectAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AcceptAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketAsyncOperation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketClientAccessPolicyProtocol のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketAsyncEventArgs のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketError のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketOptionLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketOptionName のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketShutdown のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SocketType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.TransmitFileOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.UdpReceiveResult のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.BaseOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AcceptOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.OverlappedCache のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ConnectOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.DisconnectOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.DynamicWinsockMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.AcceptExDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.GetAcceptExSockaddrsDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ConnectExDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.DisconnectExDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.DisconnectExDelegate_Blocking のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.WSARecvMsgDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.WSARecvMsgDelegate_Blocking のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.TransmitPacketsDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.MultipleConnectAsync のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.SingleSocketMultipleConnectAsync のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.MultipleSocketMultipleConnectAsync のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.OverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.TransmitFileOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.ReceiveMessageOverlappedAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Sockets.IPPacketInformation のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.DuplicateAddressDetectionState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkInterfaceType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IPAddressInformationCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.ScopeLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IcmpV4Type のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IcmpV4Code のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IPStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemGatewayIPAddressInformation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpHelperErrors のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.AdapterFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.AdapterAddressFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.OldOperationalStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.GetAdaptersAddressesFlags のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpAddrString のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.FIXED_INFO のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpSocketAddress のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpAdapterAddress のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpAdapterUnicastAddress のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpAdapterAddresses のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.InterfaceConnectionType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.InterfaceTunnelType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IpPerAdapterInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIfRow2 のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibUdpStats のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibTcpStats のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIpStats のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIcmpInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIcmpStats のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIcmpInfoEx のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibIcmpStatsEx のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibTcpTable のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibTcpRow のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibTcp6TableOwnerPid のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibTcp6RowOwnerPid のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.TcpTableClass のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibUdpTable のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibUdpRow のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.UdpTableClass のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibUdp6TableOwnerPid のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.MibUdp6RowOwnerPid のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IPOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IcmpEchoReply のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.Ipv6Address のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.Icmp6EchoReply のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.StableUnicastIpAddressTableDelegate のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.UnsafeNetInfoNativeMethods のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.StartIPOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkAvailabilityEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkChange のスタブを生成できません: 型にコンパイル エラーにつながる旧式のメンバーがあります。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkAddressChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkInformationAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkInformationPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkInformationPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetworkInterfaceComponent のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.NetBiosNodeType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.OperationalStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.PingCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.PingCompletedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.PingReply のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.PrefixOrigin のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SafeCancelMibChangeNotify のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SafeFreeMibTable のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SuffixOrigin のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIcmpV4Statistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.IcmpV6StatType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIcmpV6Statistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPAddressInformation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPGlobalProperties のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.FixedInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPInterfaceProperties のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPInterfaceStatistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPv4InterfaceStatistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPGlobalStatistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemMulticastIPAddressInformation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemUnicastIPAddressInformation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPv4InterfaceProperties のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemIPv6InterfaceProperties のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemNetworkInterface のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemTcpConnectionInformation のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemTcpStatistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.SystemUdpStatistics のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.TeredoHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.NetworkInformation.TcpState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.AuthenticationModuleElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.AuthenticationModuleElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.AuthenticationModulesSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.AuthenticationModulesSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.BypassElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.BypassElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ConfigurationStrings のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.CommonConfigurationStrings のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ConnectionManagementElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ConnectionManagementElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ConnectionManagementSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ConnectionManagementSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.DefaultProxySection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.DefaultProxySectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.HttpWebRequestElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.HttpListenerElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.HttpListenerTimeoutsElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.HttpCachePolicyElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.FtpCachePolicyElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.Ipv6Element のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.MailSettingsSectionGroup のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.MailSettingsSectionGroupInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ModuleElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.NetSectionGroup のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.PerformanceCountersElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ProxyElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.RequestCachingSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.RequestCachingSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SchemeSettingElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SchemeSettingInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SchemeSettingElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SettingsSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SettingsSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.ServicePointManagerElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpNetworkElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpNetworkElementInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpSpecifiedPickupDirectoryElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SmtpSpecifiedPickupDirectoryElementInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.SocketElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TimeoutValidator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebProxyScriptElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebRequestModuleElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebRequestModuleElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebRequestModulesSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebRequestModulesSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Configuration.WebUtilityElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UriSectionData のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UriSectionReader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UriSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UriSectionInternal のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.IriParsingElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.IdnElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.AlternateViewCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.AttachmentCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.DelegatedStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.IEncodableStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Base64Stream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.WriteStateInfoBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.Base64WriteStateInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.BaseWriter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.BufferBuilder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.BufferedReadStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.ClosableStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.ContentTransferEncoding のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.DispositionTypeNames のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.DomainLiteralReader のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.DotAtomReader のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.EightBitStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.EncodedStreamFactory のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.HeaderCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.PropertyName のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.ServerState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MBErrors のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MBKeyAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MetadataRecord のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail._METADATA_HANDLE_INFO のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.IMSAdminBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MSAdminBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MBDataType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MBUserType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.IisPickupDirectory のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.ISmtpAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.LinkedResourceCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailAddressParser のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MailBnfHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailHeaderID のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailHeaderInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.DeliveryNotificationOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailWriter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MediaTypeNames のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailPriority のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.Message のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MimeBasePart のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MimeMultiPart のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MimeMultiPartType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MimePart のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MimeWriter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.MultiAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.QEncodedStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.QuotedPairReader のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.QuotedPrintableStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.QuotedStringFormatReader のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.RecipientLocationType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpAuthenticationManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SendCompletedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpDeliveryMethod のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpDeliveryFormat のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.CheckCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.ReadLinesCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.AuthCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.DataCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.DataStopCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.EHelloCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.HelloCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.StartTlsCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.MailCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.RecipientCommand のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpCommands のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.LineInfo のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpConnection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.SmtpDateTime のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpDigestAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpLoginAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpNegotiateAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpNtlmAuthenticationModule のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpReplyReader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpReplyReaderFactory のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpStatusCode のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SupportedAuth のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpPooledStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SmtpTransport のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.SendMailAsyncResult のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TrackingStringDictionary のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.TrackingValidationObjectDictionary のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mime.TransferEncoding のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.Mail.WhitespaceReader のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.ClientWebSocket のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.ClientWebSocketOptions のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.InternalClientWebSocket のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.HttpListenerWebSocketContext のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.ServerWebSocket のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketBuffer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketCloseStatus のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketConnectionStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketError のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketException のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketHelpers のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketHttpListenerDuplexStream のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketMessageType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketProtocolComponent のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Net.WebSockets.WebSocketState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsLoadedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsSavingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingChangingEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ClientSettingsStore のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.StoredSetting のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigurationManagerInternalFactory のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigurationSettings のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlCDataSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlComment のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlDocument のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlSignificantWhitespace のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlText のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ConfigXmlWhitespace のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.HandlerBase のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ReadOnlyNameValueCollection のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ApplicationScopedSettingAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.DefaultSettingValueAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.NoSettingsVersionUpgradeAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsDescriptionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsGroupDescriptionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsGroupNameAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsManageabilityAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsProviderAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsSerializeAsAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SpecialSettingAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UserScopedSettingAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsManageability のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SpecialSetting のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingsSerializeAs のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.TypeUtil のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.Internal.ConfigurationManagerHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ApplicationSettingsGroup のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.UserSettingsGroup のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.ClientSettingsSection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingElementCollection のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.SettingValueElement のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.NotifyFilters のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.ErrorEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.FileSystemEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Direct のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.PatternMatcher のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.RenamedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.WaitForChangedResult のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.WatcherChangeTypes のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Timers.ElapsedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Timers.ElapsedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Web.AspNetHostingPermissionLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Web.AspNetHostingPermissionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Web.AspNetHostingPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.AlphabeticalEnumConverter のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.UserCallBack のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.AsyncStreamReader のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CounterSample のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CounterSampleCalculator のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.DataReceivedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.DataReceivedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.DiagnosticsConfigurationHandler のスタブを生成できません: 型は旧式です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SwitchesDictionarySectionHandler のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EntryWrittenEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogInternal のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogEntry のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogEntryCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogEntryType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogPermissionAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogPermissionEntryCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EventLogTraceListener のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.FileVersionInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.OverflowAction のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterCategory のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterCategoryOptions のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterCategoryType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterInstanceLifetime のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterLib のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceMonitor のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CategoryEntry のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CategorySample のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CounterDefinitionSample のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterPermission のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterPermissionAccess のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterPermissionEntryCollection のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.PerformanceCounterType のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ThreadInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ModuleInfo のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.EnvironmentBlock のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.OrdinalCaseInsensitiveComparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessThreadTimes のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ShellExecuteHelper のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.MainWindowFinder のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.WinProcessManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.NtProcessManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.NtProcessInfoHelper のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessModule のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessPriorityClass のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessStartInfo のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessThread のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessWaitHandle のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessWindowStyle のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SharedPerformanceCounter のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ProcessData のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.SharedUtils のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ThreadPriorityLevel のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ThreadState のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.ThreadWaitReason のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Drawing.BitmapSuffixInSatelliteAssemblyAttribute のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ExternDll のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ClientUtils のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.SecurityUtils のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.HResults のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.InvariantComparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Collections.Specialized.BackCompatibleStringComparer のスタブを生成できません: 型は exported or assembly(System.4.0.0.0.Fakes) から参照できません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.Configuration.PrivilegedConfigurationManager のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.ComponentModel.WeakHashtable のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.Handshake のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.InternalResources のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.Parity のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialError のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialErrorReceivedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialErrorReceivedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialPinChange のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialPinChangedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialPinChangedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialData のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialDataReceivedEventArgs のスタブを生成できません: 型にファミリで表示できるコントラクターがありません。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialDataReceivedEventHandler のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.SerialStream のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.IO.Ports.StopBits のスタブを生成できません: 型は値型です。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.EnvironmentHelpers のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : FXAssembly のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : ThisAssembly のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : AssemblyRef のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.SRDescriptionAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.SRCategoryAttribute のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : System.SR のスタブを生成できません: 型はシールされています。
+E:\TemFile\My\Test\Test.Unit\Fakes\System.fakes : warning : <PrivateImplementationDetails>{71274C26-FA41-4528-86AE-B4798087B550} のスタブを生成できません: 型は内部の制限によりサポートされていません。

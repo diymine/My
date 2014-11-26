@@ -1,0 +1,3 @@
+E:\TemFile\My\Test.Cloud\Test.Unit\Fakes\Test.Target.fakes : warning : Test.Target.Interface.ICompute の shim を生成できません: 型はインターフェイスです。
+E:\TemFile\My\Test.Cloud\Test.Unit\Fakes\Test.Target.fakes : warning : Test.Target.Interface.IGenericMethod の shim を生成できません: 型はインターフェイスです。
+E:\TemFile\My\Test.Cloud\Test.Unit\Fakes\Test.Target.fakes : warning : Test.Target.Interface.IWithEvents の shim を生成できません: 型はインターフェイスです。

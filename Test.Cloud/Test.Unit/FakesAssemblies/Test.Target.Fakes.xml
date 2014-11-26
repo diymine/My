@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test.Target.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Test.Target.Fakes.ShimCompute">
+            <summary>Test.Target.Compute の shim 型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimCompute.#ctor">
+            <summary>新しい shim インスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimCompute.#ctor(Test.Target.Compute)">
+            <summary>指定されたインスタンスに対して新しい shim を初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimCompute.BehaveAsCurrent">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;Current&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimCompute.BehaveAsNotImplemented">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;NotImplemented&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimCompute.Bind(Test.Target.Interface.ICompute)">
+            <summary>インターフェイスのメンバーを shim にバインドします。</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.Behavior">
+            <summary>shim が適用された型のすべてのメソッドに対して動作を割り当てます</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.Constructor">
+            <summary>Compute.Compute() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.ConstructorInt32">
+            <summary>Compute.Compute(Int32 a) の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.GetSharePriceString">
+            <summary>Compute.GetSharePrice(String name) の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.GetString">
+            <summary>Compute.GetString() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.ValueGet">
+            <summary>Compute.get_Value() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.ValueSetInt32">
+            <summary>Compute.set_Value(Int32 value) の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.ShimCompute.AllInstances">
+            <summary>すべてのインスタンス メンバーに対して shim を定義します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.AllInstances.GetSharePriceString">
+            <summary>Compute.GetSharePrice(String name) の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.AllInstances.ValueGet">
+            <summary>Compute.get_Value() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimCompute.AllInstances.ValueSetInt32">
+            <summary>Compute.set_Value(Int32 value) の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.ShimComputeAdd">
+            <summary>Test.Target.ComputeAdd の shim 型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimComputeAdd.#ctor">
+            <summary>新しい shim インスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimComputeAdd.#ctor(Test.Target.ComputeAdd)">
+            <summary>指定されたインスタンスに対して新しい shim を初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimComputeAdd.BehaveAsCurrent">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;Current&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimComputeAdd.BehaveAsNotImplemented">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;NotImplemented&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.Behavior">
+            <summary>shim が適用された型のすべてのメソッドに対して動作を割り当てます</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.ComputeGet">
+            <summary>ComputeAdd.get_Compute() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.ComputeSetICompute">
+            <summary>ComputeAdd.set_Compute(ICompute value) の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.Constructor">
+            <summary>ComputeAdd.ComputeAdd() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.DataAbb">
+            <summary>ComputeAdd.DataAbb() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.DataAdd">
+            <summary>ComputeAdd.DataAdd() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.IsLtCurrentYear">
+            <summary>ComputeAdd.IsLtCurrentYear() の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.ShimComputeAdd.AllInstances">
+            <summary>すべてのインスタンス メンバーに対して shim を定義します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.AllInstances.ComputeGet">
+            <summary>ComputeAdd.get_Compute() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.AllInstances.ComputeSetICompute">
+            <summary>ComputeAdd.set_Compute(ICompute value) の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.AllInstances.DataAbb">
+            <summary>ComputeAdd.DataAbb() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.AllInstances.DataAdd">
+            <summary>ComputeAdd.DataAdd() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimComputeAdd.AllInstances.IsLtCurrentYear">
+            <summary>ComputeAdd.IsLtCurrentYear() の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.ShimMyClass">
+            <summary>Test.Target.MyClass の shim 型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimMyClass.#ctor(Test.Target.MyClass)">
+            <summary>指定されたインスタンスに対して新しい shim を初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimMyClass.BehaveAsCurrent">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;Current&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.ShimMyClass.BehaveAsNotImplemented">
+            <summary>shim が適用された型のすべてのメソッドに対して &apos;NotImplemented&apos; 動作を割り当てます</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.Behavior">
+            <summary>shim が適用された型のすべてのメソッドに対して動作を割り当てます</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.Constructor">
+            <summary>MyClass.MyClass() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.DoConcrete">
+            <summary>MyClass.DoConcrete() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.DoVirtualInt32">
+            <summary>MyClass.DoVirtual(Int32 n) の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.ShimMyClass.AllInstances">
+            <summary>すべてのインスタンス メンバーに対して shim を定義します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.AllInstances.DoConcrete">
+            <summary>MyClass.DoConcrete() の shim の設定</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.ShimMyClass.AllInstances.DoVirtualInt32">
+            <summary>MyClass.DoVirtual(Int32 n) の shim の設定</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.StubCompute">
+            <summary>Test.Target.Compute のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubCompute.#ctor">
+            <summary>新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubCompute.#ctor(System.Int32)">
+            <summary>新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubCompute.InitializeStub">
+            <summary>type StubCompute の新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubCompute.CallBase">
+            <summary>フォールバック動作の代わりに基本メソッドを呼び出すかどうかを示す値を取得または設定します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubCompute.InstanceBehavior">
+            <summary>インスタンスの動作を取得または設定します。</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubCompute.InstanceObserver">
+            <summary>インスタンス オブザーバーを取得または設定します。</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.StubComputeAdd">
+            <summary>Test.Target.ComputeAdd のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubComputeAdd.#ctor">
+            <summary>新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubComputeAdd.InitializeStub">
+            <summary>type StubComputeAdd の新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubComputeAdd.CallBase">
+            <summary>フォールバック動作の代わりに基本メソッドを呼び出すかどうかを示す値を取得または設定します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubComputeAdd.InstanceBehavior">
+            <summary>インスタンスの動作を取得または設定します。</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubComputeAdd.InstanceObserver">
+            <summary>インスタンス オブザーバーを取得または設定します。</summary>
+        </member>
+        <member name="T:Test.Target.Fakes.StubMyClass">
+            <summary>Test.Target.MyClass のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubMyClass.#ctor">
+            <summary>新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubMyClass.DoAbstract(System.Int32)">
+            <summary>MyClass.DoAbstract(Int32 x) の スタブ の設定</summary>
+        </member>
+        <member name="F:Test.Target.Fakes.StubMyClass.DoAbstractInt32">
+            <summary>MyClass.DoAbstract(Int32 x) の stub の設定</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubMyClass.DoVirtual(System.Int32)">
+            <summary>MyClass.DoVirtual(Int32 n) の スタブ の設定</summary>
+        </member>
+        <member name="F:Test.Target.Fakes.StubMyClass.DoVirtualInt32">
+            <summary>MyClass.DoVirtual(Int32 n) の stub の設定</summary>
+        </member>
+        <member name="M:Test.Target.Fakes.StubMyClass.InitializeStub">
+            <summary>type StubMyClass の新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubMyClass.CallBase">
+            <summary>フォールバック動作の代わりに基本メソッドを呼び出すかどうかを示す値を取得または設定します</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubMyClass.InstanceBehavior">
+            <summary>インスタンスの動作を取得または設定します。</summary>
+        </member>
+        <member name="P:Test.Target.Fakes.StubMyClass.InstanceObserver">
+            <summary>インスタンス オブザーバーを取得または設定します。</summary>
+        </member>
+        <member name="T:Test.Target.Interface.Fakes.StubICompute">
+            <summary>Test.Target.Interface.ICompute のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubICompute.#ctor">
+            <summary>type StubICompute の新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubICompute.AttachBackingFieldToValue">
+            <summary>バッキング フィールドを持つプロパティとして StubICompute.Value をエミュレートするために、デリゲートをアタッチします。</summary>
+        </member>
+        <member name="F:Test.Target.Interface.Fakes.StubICompute.GetSharePriceString">
+            <summary>ICompute.GetSharePrice(String name) の stub の設定</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubICompute.tt::Test#Target#Interface#ICompute#GetSharePrice(System.String)">
+            <summary>ICompute.GetSharePrice(String name) の スタブ の設定</summary>
+        </member>
+        <member name="F:Test.Target.Interface.Fakes.StubICompute.ValueGet">
+            <summary>ICompute.get_Value() の stub の設定</summary>
+        </member>
+        <member name="F:Test.Target.Interface.Fakes.StubICompute.ValueSetInt32">
+            <summary>ICompute.set_Value(Int32 value) の stub の設定</summary>
+        </member>
+        <member name="P:Test.Target.Interface.Fakes.StubICompute.tt::Test#Target#Interface#ICompute#Value">
+            <summary>ICompute.get_Value() の stub の設定</summary>
+        </member>
+        <member name="T:Test.Target.Interface.Fakes.StubIGenericMethod">
+            <summary>Test.Target.Interface.IGenericMethod のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubIGenericMethod.#ctor">
+            <summary>type StubIGenericMethod の新しいインスタンスを初期化します</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubIGenericMethod.GetValueOf1``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{``0})">
+            <summary>GetValue() のスタブの設定</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubIGenericMethod.tt::Test#Target#Interface#IGenericMethod#GetValue``1">
+            <summary>IGenericMethod.GetValue() の スタブ の設定</summary>
+        </member>
+        <member name="T:Test.Target.Interface.Fakes.StubIWithEvents">
+            <summary>Test.Target.Interface.IWithEvents のスタブ型</summary>
+        </member>
+        <member name="M:Test.Target.Interface.Fakes.StubIWithEvents.#ctor">
+            <summary>type StubIWithEvents の新しいインスタンスを初期化します</summary>
+        </member>
+    </members>
+</doc>

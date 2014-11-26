@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>title</h2>
+listblob
+<table>
+    @foreach (var item in ViewBag.BlobList)
+    {
+    <tr>
+        <td>@item.Name</td> 
+        <td>@item.Properties.Length</td> 
+        <td>@item.Properties.ContentType</td>
+        <td>@item.Properties.LastModified</td>
+        
+        <td>=====@item.Uri</td>
+    </tr>
+    }
+</table>

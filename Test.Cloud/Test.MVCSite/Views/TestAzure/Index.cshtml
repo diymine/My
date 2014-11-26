@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("SavePic", "TestAzure", "post"))
+{
+    <input type="submit" value="SavePic" />
+}
+<hr/>
+
+@Html.ActionLink("listblob","ListData","TestAzure")
+
+@Html.ActionLink("ViewBlobContent", "ViewBlobContent", "TestAzure")
+
+@Html.ActionLink("DeleteBlob", "DeleteBlob", "TestAzure")
+
+@Html.ActionLink("InsertEntity", "InsertEntity", "TestAzure")
+
+@Html.ActionLink("ListEntity", "ListEntity", "TestAzure")
+
+
+
