@@ -10,3 +10,5 @@ http://catb.org/~esr/faqs/smart-questions.html
 http://www.wikihow.com/Ask-a-Question-Intelligently
 
 http://www.syncfusion.com/resources/techportal/ebooks
+
+http://blog.csdn.net/zhu1988renhui/article/details/7936525
