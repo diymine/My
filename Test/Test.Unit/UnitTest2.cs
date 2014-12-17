@@ -24,9 +24,6 @@ namespace Test.Unit
             byte[] byEnc;
             try
             {
-                // decode from base64rul string to base64 string
-                input = input.Replace('_', '/').Replace('-', '+');
-
                 byEnc = Convert.FromBase64String(input);
 
                 DESCryptoServiceProvider cryptoProvider = new DESCryptoServiceProvider();
@@ -54,13 +51,13 @@ namespace Test.Unit
         {
             string str1 =
                 Decode(
-                    "LSzvdpgQwbE5JLLBs7JIl-_RA0dF9M_axyTOqZRcIVHOTHx3gsgRzTwB77h_9bvjpA74Ke32P7uc4L-3Vba6ejJdJfmPcmgB3UVeg4SK-j-5Yc-SDvfmzQ==",
-                    "bX1VyN3R", "bX1VyN3R");
+                    "",
+                    "", "");
             Console.WriteLine(str1);
             string str2 =
                 Decode(
-                    "MtkkG8gKTkP90GMUofvYCkTAadVSA_2nhiFEJ1qVUi_AfdXasWKfkdGitVVvjp87uZFHKh4swFgs-kiUMbBIefmrd2OuP2RhKNnrpoD-zpbDEtyJJ6P7JA==",
-                    "bX1VyN3R", "bX1VyN3R");
+                    "",
+                    "", "");
             Console.WriteLine(str2);
         }
 
