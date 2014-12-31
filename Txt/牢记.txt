@@ -4,3 +4,14 @@
 =IF(C4="","",COUNTIF(INDIRECT("'"&C4&"'!D:D"),"異常系"))
 SET IDENTITY_INSERT d_questions ON;
 DATEADD(hh,9,getdate())
+EXEC sp_configure 'show advanced options', 1
+GO
+-- 重新配置
+RECONFIGURE
+GO
+-- 启用xp_cmdshell
+EXEC sp_configure 'xp_cmdshell', 0
+GO
+--重新配置
+RECONFIGURE
+GO
