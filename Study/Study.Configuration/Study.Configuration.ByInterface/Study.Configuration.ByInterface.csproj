@@ -53,12 +53,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ConfigurationInterface\ConfigurationInterface.csproj">
-      <Project>{5f717a64-2d61-4c2c-8033-d0998a779e41}</Project>
-      <Name>ConfigurationInterface</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
