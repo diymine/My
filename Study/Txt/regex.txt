@@ -1,0 +1,22 @@
+var regex = new RegExp("^\d+(\.\d)?$").test("55555")
+undefined
+var regex = new RegExp("^\d+(\.\d)?$");regex.test("55555");
+false
+/^\d+(\.\d)?$/.test("55555");
+true
+/^\d+(\.\d)?$/.test("111.5");
+true
+/^\d+(\.\d)?$/.test("11.21");
+false
+/^\d+(\.\d)?$/.test("11.2");
+true
+var regex = new RegExp("^\d+(\.\d)?$");regex.exec("55555");
+null
+/^\d+(\.\d)?$/.exec("55555")
+Array [ "55555", undefined ]
+var regex = new RegExp("\d+(\.\d)?");regex.exec("55555");
+null
+var regex = new RegExp("^[0-9]+(\.[0-9])?$");regex.exec("55555");
+Array [ "55555", undefined ]
+var regex = new RegExp("^[0-9]+(\.[0-9])?$");regex.test("55555");
+true
